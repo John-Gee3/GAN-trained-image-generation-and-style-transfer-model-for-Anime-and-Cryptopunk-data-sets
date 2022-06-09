@@ -18,4 +18,5 @@ https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization
 
 
 ![Example](./images/Me.jpg) ![Example2](./images/anime3.jpeg) ![Example3](./images/cryptopunk3.jpeg) ![Example4](./images/output4.png)) ![Example5](./images/output.png))
-![Example6](./images/output2 .png))
+
+![Example6](./images/output2.png))
