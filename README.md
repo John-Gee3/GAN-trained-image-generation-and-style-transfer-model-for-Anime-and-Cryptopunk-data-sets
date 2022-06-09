@@ -17,4 +17,4 @@ https://www.tensorflow.org/tutorials/generative/dcgan
 https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization
 
 
-![Example](./Me.jpg) ![Example](./anime3.jpeg) ![Example](./cryptopunk3.jpeg) ![Example](./output4.png))
+![Example](./images/Me.jpg) ![Example2](./images/anime3.jpeg) ![Example3](./images/cryptopunk3.jpeg) ![Example4](./images/output4.png))
